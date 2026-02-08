@@ -43,6 +43,34 @@ CareerNest streamlines internship discovery and hiring, offering tailored experi
 - Company workflows for posting internships and reviewing applicants
 - Admin oversight for companies and students
 
+### UI Gallery
+<table>
+  <tr>
+    <td><img alt="Home" src="intersify-frontend/public/Screenshot 2026-02-03 181056.png" width="420"><br/>Home</td>
+    <td><img alt="Auth" src="intersify-frontend/public/Screenshot 2026-02-03 181116.png" width="420"><br/>Authentication</td>
+  </tr>
+  <tr>
+    <td><img alt="Internships" src="intersify-frontend/public/Screenshot 2026-02-03 181223.png" width="420"><br/>Internships</td>
+    <td><img alt="Internship Detail" src="intersify-frontend/public/Screenshot 2026-02-03 181252.png" width="420"><br/>Internship Detail</td>
+  </tr>
+  <tr>
+    <td><img alt="Student Dashboard" src="intersify-frontend/public/Screenshot 2026-02-03 181345.png" width="420"><br/>Student Dashboard</td>
+    <td><img alt="Certificates" src="intersify-frontend/public/Screenshot 2026-02-03 181511.png" width="420"><br/>Certificates</td>
+  </tr>
+  <tr>
+    <td><img alt="Company Dashboard" src="intersify-frontend/public/Screenshot 2026-02-03 181550.png" width="420"><br/>Company Dashboard</td>
+    <td><img alt="Company Internships" src="intersify-frontend/public/Screenshot 2026-02-03 181641.png" width="420"><br/>Company Internships</td>
+  </tr>
+  <tr>
+    <td><img alt="Applicants" src="intersify-frontend/public/Screenshot 2026-02-03 181746.png" width="420"><br/>Applicants</td>
+    <td><img alt="Admin Dashboard" src="intersify-frontend/public/Screenshot 2026-02-03 181904.png" width="420"><br/>Admin Dashboard</td>
+  </tr>
+  <tr>
+    <td><img alt="Additional UI" src="intersify-frontend/public/Screenshot 2026-02-03 224819.png" width="420"><br/>Additional UI</td>
+    <td><img alt="Landing Preview" src="intersify-frontend/public/Gemini_Generated_Image_1vjv9m1vjv9m1vjv.png" width="420"><br/>Landing Preview</td>
+  </tr>
+</table>
+
 ## Tech Stack
 - Frontend: React 18, Vite, React Router, Axios, React‑Toastify
 - Backend: Spring Boot 3, Spring Security, JPA/Hibernate
