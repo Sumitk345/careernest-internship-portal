@@ -1,12 +1,33 @@
-# CareerNest Internship Portal
-Connect students and employers with a modern, full‑stack platform featuring a centralized recruitment engine, role‑based dashboards, secure authentication, and real‑time notifications.
+<div align="center">
+  <h1>✨ CareerNest Internship Portal</h1>
+  <p>Connecting <b>students</b> and <b>employers</b> with a modern, full‑stack platform featuring a centralized recruitment engine, role‑based dashboards, secure authentication, and real‑time notifications.</p>
+  
+  <img alt="CareerNest UI Preview" src="intersify-frontend/public/Gemini_Generated_Image_1vjv9m1vjv9m1vjv.png" width="880">
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/Frontend-React%2018-61DAFB?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Build-Vite%207-646CFF?logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Spring%20Boot%203-6DB33F?logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/DB-MySQL-00758F?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Realtime-WebSockets-FF7F0E" />
+</div>
 
-![React](https://img.shields.io/badge/Frontend-React%2018-blue) ![Vite](https://img.shields.io/badge/Build-Vite%207-9467bd) ![Spring Boot](https://img.shields.io/badge/Backend-Spring%20Boot%203-6db33f) ![MySQL](https://img.shields.io/badge/DB-MySQL-00758f) ![WebSockets](https://img.shields.io/badge/Realtime-WebSockets-ff7f0e)
+---
 
-## UI Preview
-Below are previews from the frontend showing the public landing experience and dashboard components.
+## Table of Contents
+- Overview
+- Features
+- UI Highlights
+- Tech Stack
+- Monorepo Layout
+- Quick Start
+- Security & Secrets
+- Scripts
+- Roadmap
+- License
 
-<img alt="CareerNest UI Preview" src="intersify-frontend/public/Gemini_Generated_Image_1vjv9m1vjv9m1vjv.png" width="900">
+## Overview
+CareerNest streamlines internship discovery and hiring, offering tailored experiences for students, companies, and admins. It supports secure auth, application tracking, notifications, and certificate generation.
 
 ## Features
 - Role‑based dashboards for Students, Companies, and Admins
@@ -15,6 +36,12 @@ Below are previews from the frontend showing the public landing experience and d
 - Real‑time notifications via WebSockets
 - Certificate generation and PDF utilities
 - Search engine across internships and profiles
+
+## UI Highlights
+- Clean public landing page with hero and featured internships
+- Student workflows for applying, tracking, and certificates
+- Company workflows for posting internships and reviewing applicants
+- Admin oversight for companies and students
 
 ## Tech Stack
 - Frontend: React 18, Vite, React Router, Axios, React‑Toastify
@@ -82,6 +109,12 @@ The app serves on `http://localhost:5173/` by default.
 - Frontend dev: `npm run dev`
 - Frontend build: `npm run build`
 - Frontend preview: `npm run preview`
+
+## Roadmap
+- Additional social auth providers
+- Rich analytics for admins and companies
+- Optimized media delivery and caching
+- Accessibility enhancements and UX refinements
 
 ## License
 This project is provided as‑is for learning and demonstration purposes.
